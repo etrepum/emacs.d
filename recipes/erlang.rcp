@@ -1,0 +1,7 @@
+(:name erlang
+       :type github
+       :pkgname "erlang/otp"
+       :load-path ("lib/tools/emacs")
+       :features (erlang-start erlang-flymake)
+       :after (add-hook 'erlang-mode-hook
+                        (lambda () (erlang-flymake-only-on-save))))
