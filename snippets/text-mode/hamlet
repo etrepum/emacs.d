@@ -1,0 +1,8 @@
+# name: hamlet
+# key: hamlet
+# --
+<!-- Copyright © 2012 Positive Inertia, LLC. All Rights Reserved. -->
+
+<div data-role="page" data-theme="c" data-content-theme="c">
+  <div data-role="content">
+    

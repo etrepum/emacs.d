@@ -1,0 +1,4 @@
+# name: io:fwrite("~p~n", [ ... ])
+# key: iof
+# --
+io:fwrite("$1~p~n", [$1])
