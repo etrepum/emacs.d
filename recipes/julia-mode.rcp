@@ -1,7 +1,0 @@
-(:name julia-mode
-       :type github
-       :pkgname "JuliaLang/julia"
-       :load-path ("contrib")
-       :after (progn
-                (autoload 'julia-mode "julia" "Julia Mode")
-                (add-to-list 'auto-mode-alist '("\\.j\\'" . julia-mode))))
