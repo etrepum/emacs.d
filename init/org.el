@@ -46,9 +46,6 @@
       org-mobile-directory "~/Dropbox/MobileOrg"
       org-mobile-inbox-for-pull "~/org/from-mobile.org"
       org-mobile-use-encryption t
-      org-log-done 'time
-      org-log-into-drawer t
-      org-log-repeat 'time
       org-modules '(org-bbdb
                     org-bibtex
                     org-crypt
