@@ -1,5 +1,0 @@
-(:name color-theme-solarized
-       :after (when (window-system)
-		(add-to-list 'custom-theme-load-path
-			     "~/.emacs.d/el-get/color-theme-solarized")
-		(load-theme 'solarized-dark t)))
