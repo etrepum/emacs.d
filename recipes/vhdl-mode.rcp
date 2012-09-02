@@ -1,3 +1,0 @@
-(:name vhdl-mode
-       :type http-zip
-       :url "http://www.iis.ee.ethz.ch/~zimmi/emacs/vhdl-mode-3.33.28.zip")
