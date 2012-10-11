@@ -1,0 +1,10 @@
+# name: #+TITLE
+# key: new
+# --
+#+TITLE:    $1
+#+AUTHOR:   $2
+#+DATE:     $3
+#+STARTUP:  content odd hidestars hideblocks
+#+STARTUP:  nologdone nolognoteclock-out nologredeadline
+#+STARTUP:  nologrefile nologrepeat nologreschedule
+#+FILETAGS: @COMPUTER
