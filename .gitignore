@@ -1,3 +1,4 @@
+/.org-id-locations
 /ac-comphist.dat
 /auto-save-list
 /backup
@@ -5,6 +6,9 @@
 /custom.el
 /el-get
 /eshell
+/org-archive
 /semanticdb
 /srecode-map.el
-swank
+/swank
+/tramp
+/bookmarks
