@@ -1,0 +1,6 @@
+(:name exec-path-from-shell
+       :description "A GNU Emacs library to setup environment variables from the user's shell."
+       :type github
+       :pkgname "purcell/exec-path-from-shell"
+       :load-path (".")
+       )
