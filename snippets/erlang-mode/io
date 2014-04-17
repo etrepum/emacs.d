@@ -1,4 +1,0 @@
-# name: io:fwrite(" .. ~n", [])
-# key: io
-# --
-io:fwrite("$1~n", [])

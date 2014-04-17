@@ -1,1 +1,0 @@
-(setq-default erlang-oldstyle-comment-indent t)

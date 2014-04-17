@@ -1,3 +1,0 @@
-(:name yasnippet
-       :features yasnippet
-       :after (add-to-list 'yas/snippet-dirs "~/.emacs.d/snippets"))
