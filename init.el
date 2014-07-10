@@ -20,4 +20,6 @@
   (mapc '(lambda (package)
 	   (unless (package-installed-p package)
 	     (package-install package)))
-	'(ghc)))
+	'(ghc
+	  erlang
+	  go-mode)))
