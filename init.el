@@ -22,4 +22,7 @@
 	     (package-install package)))
 	'(ghc
 	  erlang
-	  go-mode)))
+	  go-mode
+	  yaml-mode
+	  rust-mode
+	  company-ghc)))
